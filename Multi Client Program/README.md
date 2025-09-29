@@ -3,7 +3,11 @@
 This is a simple **Client-Server Chat Program** written in Python.  
 It allows multiple clients (running from different terminals) to connect to a single server and exchange messages in real-time.
 
+## 📸 Expected Output
 
+Here’s how the game looks when running:
+
+![Expected Output](output/Expected%20Output.png)
 
 ## Features
 - Multi-client support (multiple users can chat at the same time)
