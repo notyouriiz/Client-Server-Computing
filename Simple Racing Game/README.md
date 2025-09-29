@@ -22,6 +22,26 @@ Install Pillow (optional):
 pip install pillow
 ```
 
+## Project Structure
+``` text
+Simple Racing Game/
+│
+├── assets/
+│ └── car1.png
+│ └── car2.png
+│
+├── client/
+│ └── client.py
+│
+├── output/
+│ └──image.png
+│
+├── server/
+│ └── server.py
+│
+└── README.md 
+```
+
 ## ▶️ How to Run
 1. Start the server
 ``` bash
